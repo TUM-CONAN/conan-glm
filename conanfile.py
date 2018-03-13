@@ -1,4 +1,6 @@
 from conans import ConanFile
+from conans import tools
+import os
 
 class glmConan(ConanFile):
     name = "glm"

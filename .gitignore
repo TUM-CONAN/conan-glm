@@ -1,0 +1,6 @@
+__pycache__
+*~
+/glm
+conanbuildinfo.txt
+.conan_dirty
+conaninfo.txt
