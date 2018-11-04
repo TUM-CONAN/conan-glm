@@ -4,7 +4,7 @@ import os
 
 class glmConan(ConanFile):
     name = "glm"
-    version = "0.9.8.5"
+    version = "0.9.9.2"
     license = "The Happy Bunny License, or the MIT License"
     url = "https://github.com/ulricheck/conan-glm"
 

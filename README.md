@@ -9,14 +9,14 @@
 
 ### Basic setup
 
-    $ conan install glm/0.9.8.5@camposs/stable
+    $ conan install glm/0.9.9.2@camposs/stable
 
 ### Project setup
 
 If you handle multiple dependencies in your project is better to add a *conanfile.txt*
 
     [requires]
-    glm/0.9.8.5@camposs/stable
+    glm/0.9.9.2@camposs/stable
 
     [generators]
     txt
@@ -44,7 +44,7 @@ The following command both runs all the steps of the conan file, and publishes t
 
 ## Upload
 
-    $ conan upload glm/0.9.8.5@camposs/stable --all -r camp
+    $ conan upload glm/0.9.9.2@camposs/stable --all -r camp
 
 ## License
 
